@@ -1,0 +1,22 @@
+# build artifacts
+*.o
+*.out
+*.obj
+*.exe
+*.log
+
+# folders
+build
+bin
+obj
+tmp
+
+# editors
+.vscode
+.idea
+.DS_Store
+
+# archives
+*.zip
+*.tar
+*.gz
